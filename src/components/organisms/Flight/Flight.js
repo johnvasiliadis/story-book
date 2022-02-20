@@ -22,11 +22,12 @@ class Flight extends Component {
       headers: {
         Accept: "application/json",
         app_id: "8f89c2df",
-        app_key: "22bde314f165889f9841a9064859eaca",
+        app_key: "d6d1444bc029e94df86bc7f13acd9da8",
         ResourceVersion: "v4"
       }
     };
 
+    // Feb 2022 observation -- I think they got rid of the search date.
     let params =
       "scheduleDate=" +
       this.state.searchDate +
