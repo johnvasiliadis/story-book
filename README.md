@@ -8,7 +8,7 @@ The intent, and successful attempt I should say, was to create a thin slice acro
 In addition I incorporated Storybook to house the library of components. These components are broken up in the file structure to follow best practices. The structure is 'Organisms', 'Molecules', 'Atoms'.
 
 Atoms houses the simplest html elements such as a single button element.
-Molecules then house a group of elemenets that is a tiny more complex than such as a button and a input field.
+Molecules then house a group of elements that is a tiny more complex than such as a button and a input field.
 
 Beyond that we can create 'organisms' and even 'bodies' to house even more complex html pieces.
 
