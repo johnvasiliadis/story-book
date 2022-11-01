@@ -10,7 +10,7 @@
     "@storybook/react": "^5.0.10",
     "babel-loader": "^8.0.5",
     "babel-plugin-styled-components": "^1.10.0",
-    "react-scripts": "0.4.1"
+    "react-scripts": "5.0.1"
   },
   "dependencies": {
     "axios": "^0.14.0",
