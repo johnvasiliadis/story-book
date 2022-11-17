@@ -7,10 +7,10 @@
     "@storybook/addon-actions": "^5.0.10",
     "@storybook/addon-links": "^5.0.10",
     "@storybook/addons": "^5.0.10",
-    "@storybook/react": "^5.0.10",
+    "@storybook/react": "^6.5.13",
     "babel-loader": "^8.0.5",
     "babel-plugin-styled-components": "^1.10.0",
-    "react-scripts": "0.4.1"
+    "react-scripts": "5.0.1"
   },
   "dependencies": {
     "axios": "^0.14.0",
